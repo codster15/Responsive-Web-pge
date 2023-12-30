@@ -1,10 +1,10 @@
 # Landing Page Responsive Design 🌐
-You can view a live demo of the landing page [here](https://codster15.github.io/Responsive-Web-pge/) 
+
 This repository contains a landing page template with a fully responsive design. The page is designed to adapt to various screen sizes, providing an optimal viewing experience on both desktop and mobile devices.
 
 ## Demo 🚀
 
-
+You can view a live demo of the landing page [here](https://codster15.github.io/Responsive-Web-pge/) 
 
 ## Features ✨
 
