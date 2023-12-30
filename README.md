@@ -26,8 +26,10 @@ You can view a live demo of the landing page [here](https://codster15.github.io/
    ![48](https://github.com/codster15/Responsive-Web-pge/assets/127374043/13efa59e-befd-4559-b437-9ca840f16cfd)
 
 ## Let's Connect
-📧 Email: deepaksingh.desire@gmail.com
-💼 LinkedIn: LinkedIn Profile
-GitHub Follow -Github Follow
+- 📧 Email: deepaksingh.desire@gmail.com
+- 💼 LinkedIn: [ LinkedIn Profile](https://www.linkedin.com/in/codster-dev-9638b1205/)
+- GitHub Follow -[Github Follow](https://github.com/codster15)
+
+
 Feel free to explore my repositories and reach out! Let's connect and code something amazing together. 😊 #WebDeveloper #FullStack #JavaScript #ReviewsApp #OpenSource #TechEnthusiast
 
