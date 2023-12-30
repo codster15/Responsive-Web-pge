@@ -22,8 +22,8 @@ You can view a live demo of the landing page [here](https://codster15.github.io/
    ```bash
    git clone https://github.com/codster15/Responsive-Web-pge.git
 
-   ![56](https://github.com/codster15/Responsive-Web-pge/assets/127374043/13efa59e-befd-4559-b437-9ca840f16cfd)
 
+   (https://github.com/codster15/Responsive-Web-pge/assets/127374043/13efa59e-befd-4559-b437-9ca840f16cfd)
 ## Let's Connect
 📧 Email: deepaksingh.desire@gmail.com
 💼 LinkedIn: LinkedIn Profile
